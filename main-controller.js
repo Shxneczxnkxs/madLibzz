@@ -8,10 +8,12 @@ $scope.save = function(){
     box4: $scope.noun2,
     box5: $scope.pluralNoun1,
     box6: $scope.game1,
-    box7: $scope.pluralNoun2
+    box7: $scope.pluralNoun2,
     box8: $scope.pluralNoun3,
-    box9: $scope.verbIng
+    box9: $scope.verbIng1
   };
+console.log(WordFactory.inputs);
+
 
 }
 

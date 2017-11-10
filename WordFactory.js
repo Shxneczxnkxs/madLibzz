@@ -1,4 +1,5 @@
-var app = app.factory("WordFactory", function(){
+var app = angular.module('madLibz');
+app.factory("WordFactory", function(){
   return {
 
   };
